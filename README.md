@@ -55,6 +55,8 @@ You’ll be prompted to enter a command:
 
 ## 🧠 Example Input / Output
 
+Tested in Turkish.
+
 ### Input:
 ```
 film izliyorum
