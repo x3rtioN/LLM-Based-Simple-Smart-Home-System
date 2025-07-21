@@ -19,14 +19,6 @@ This project uses a **Google Gemini LLM**-powered logic agent to interpret natur
 ### 1. Install Python 3 and required packages
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-pip install -r requirements.txt
-```
-
-Or manually:
-
-```bash
 pip install google-generativeai
 ```
 
